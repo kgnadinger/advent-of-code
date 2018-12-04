@@ -13,7 +13,7 @@ print(result)
 /*
  I found out that playground has some performance limitations today. Any large computation's will slow to a crawl if dont in the main playground file.
  
- Instead, as I have done here, I've organized the computation into source files which are compiled and ran outside the playground environement. 
+ Instead, as I have done here, I've organized the computation into source files which are compiled and ran outside the playground environement.
  
 */
 
