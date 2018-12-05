@@ -2,12 +2,12 @@
 Solutions For Advent Of Code
 
 
-## Instructions
-- [Day 1](https://adventofcode.com/2018/day/1)
-- [Day 2](https://adventofcode.com/2018/day/1)
-- [Day 3](https://adventofcode.com/2018/day/1)
-- [Day 4](https://adventofcode.com/2018/day/1)
-- [Day 5](https://adventofcode.com/2018/day/1)
+## Instructions - Solutions
+- [Day 1](https://adventofcode.com/2018/day/1) - [Solution](https://github.com/kgnadinger/advent-of-code/tree/master/solutions/Day-1.playground){:target="_blank"}
+- [Day 2](https://adventofcode.com/2018/day/1) - [Solution](https://github.com/kgnadinger/advent-of-code/tree/master/solutions/Day-2.playground)
+- [Day 3](https://adventofcode.com/2018/day/1) - [Solution](https://github.com/kgnadinger/advent-of-code/tree/master/solutions/Day-3.playground)
+- [Day 4](https://adventofcode.com/2018/day/1) - [Solution](https://github.com/kgnadinger/advent-of-code/tree/master/solutions/Day-4.playground)
+- [Day 5](https://adventofcode.com/2018/day/1) - [Solution](https://github.com/kgnadinger/advent-of-code/tree/master/solutions/Day-5.playground)
 - [Day 6](https://adventofcode.com/2018/day/1)
 - [Day 7](https://adventofcode.com/2018/day/1)
 - [Day 8](https://adventofcode.com/2018/day/1)
