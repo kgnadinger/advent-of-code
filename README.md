@@ -3,7 +3,7 @@ Solutions For Advent Of Code
 
 
 ## Instructions - Solutions
-- [Day 1](https://adventofcode.com/2018/day/1) - [Solution](https://github.com/kgnadinger/advent-of-code/tree/master/solutions/Day-1.playground){:target="_blank"}
+- [Day 1](https://adventofcode.com/2018/day/1) - [Solution](https://github.com/kgnadinger/advent-of-code/tree/master/solutions/Day-1.playground)
 - [Day 2](https://adventofcode.com/2018/day/1) - [Solution](https://github.com/kgnadinger/advent-of-code/tree/master/solutions/Day-2.playground)
 - [Day 3](https://adventofcode.com/2018/day/1) - [Solution](https://github.com/kgnadinger/advent-of-code/tree/master/solutions/Day-3.playground)
 - [Day 4](https://adventofcode.com/2018/day/1) - [Solution](https://github.com/kgnadinger/advent-of-code/tree/master/solutions/Day-4.playground)
